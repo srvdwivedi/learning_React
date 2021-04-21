@@ -1,5 +1,5 @@
 import './App.css';
-import Text from './components/helloWorld'
+import Text from './components/react_hooks'
 
 function App() {
   return (
